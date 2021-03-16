@@ -5,12 +5,15 @@ A react app which is rendering few pics which we can be added to cart and then w
 Below are some screenshots to give you and idea on how this looks
 
 Initial Display:
+
 <img src='./screenshots/initial-display.png' width='400px'>
 
 Pics added to cart or favourited:
+
 <img src='./screenshots/add-to-cart.png' width='400px'>
 
 Checkout Page:
+
 <img src='./screenshots/checkout.png' width='400px'>
 
 # Getting Started with Create React App
